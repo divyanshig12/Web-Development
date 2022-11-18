@@ -1,0 +1,50 @@
+body{
+  background-color: #FFFBE7;
+  margin: 0;
+}
+img{
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+h1{
+  color: #A97155;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 30px;
+}
+h2{
+color: #A97155;
+font-family: 'Ubuntu', sans-serif;
+}
+.intro-para{
+  line-height: 2;
+  padding-bottom: 20px;
+}
+a{
+  text-decoration: none;
+}
+
+hr{
+  border:dotted #EAF6F6 6px;
+  border-bottom: none;
+  width:4%;
+  margin: 50px auto;
+}
+.footer{
+background-color:  #A97155;
+text-align: center;
+padding-top: 30px;
+padding-bottom: 30px;
+}
+.contact{
+  font-size: 1.2rem;
+  color:black;
+}
+.contact:hover{
+  color: #FFFBE7;
+}
+.copyright{
+  color: #FFFBE7;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
